@@ -112,3 +112,5 @@ scatter(a, b, c=:blue, ms=3, leg=false)
 plot!(modelo, c=:red, xlabel="07/2019 - 10/2020",
     ylabel = "Qtd. de Água nos Reservatórios (%)", lw=2, xlim = (0,17))
 title!("R2 = $R2")
+
+#final
